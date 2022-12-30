@@ -9,10 +9,10 @@
 
 <strong>纯新手向使用方法</strong>  
 首先在本页面下载zip  
-<图片>  
+![Aaron Swartz](https://github.com/utai-utai/One-Eye-DingZhen/raw/main/Res/1.png)  
 win+r并输入cmd打开terminal  
-<图片>  
+![Aaron Swartz](https://github.com/utai-utai/One-Eye-DingZhen/raw/main/Res/2.png)  
 输入cd+文件夹名称(可以直接拖动或者从属性获得)  
-<图片>  
+![Aaron Swartz](https://github.com/utai-utai/One-Eye-DingZhen/raw/main/Res/3.png)  
 输入main.py，回车即可开始使用(使用前先在img中添加相应图片)
-<图片>  
+![Aaron Swartz](https://github.com/utai-utai/One-Eye-DingZhen/raw/main/Res/4.png)  
