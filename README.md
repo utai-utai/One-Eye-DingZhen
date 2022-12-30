@@ -6,3 +6,5 @@
 <strong>使用方法</strong>  
 将需要鉴定的图片(jpg格式)加入img文件夹后，打开main.py。  
 输入图片名称，不加后缀：比如sample.jpg，则输入sample
+
+<strong>新手向使用方法</strong>  
