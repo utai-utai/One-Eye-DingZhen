@@ -1,8 +1,8 @@
 import torch
 import torchvision
 from PIL import Image
-from 一眼丁真.code.data import word_list1, word_list2
-from 一眼丁真.code.show_result import show
+from data import word_list1, word_list2
+from show_result import show
 
 # 加载网络模型
 model1 = torch.load('model/network_1.pth')
